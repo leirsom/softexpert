@@ -1,0 +1,47 @@
+/* CSS (styles.css) */
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  form label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  form input,
+  form select {
+    margin-top: 5px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  #resultContainer {
+    display: none;
+    margin-top: 20px;
+  }
+  
+  #resultList {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  #resultList li {
+    margin-bottom: 10px;
+  }
+  
+  #resultList ul {
+    margin-top: 5px;
+    padding-left: 20px;
+  }  
